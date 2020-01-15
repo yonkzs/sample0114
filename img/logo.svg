@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144.5" height="46.15" viewBox="0 0 144.5 46.15">
+  <g id="グループ_557" data-name="グループ 557" transform="translate(-454 -46.445)">
+    <g id="グループ_556" data-name="グループ 556" transform="translate(454 46.445)">
+      <path id="パス_37" data-name="パス 37" d="M570.225,99.158h-25.79V96.585h23.217V74.655H544.435V72.082h25.79Z" transform="translate(-492.609 -57.39)" fill="#221714"/>
+      <path id="パス_38" data-name="パス 38" d="M686.936,99.158h-25.79V96.585h23.217V74.655H663.091l-.486-2.573h24.331Z" transform="translate(-542.436 -57.39)" fill="#221714"/>
+      <path id="パス_39" data-name="パス 39" d="M599.276,72.082h2.573l-4,27.077h-2.573Z" transform="translate(-514.313 -57.39)" fill="#221714"/>
+      <path id="パス_40" data-name="パス 40" d="M638.049,72.082h-2.573l4,27.077h2.573Z" transform="translate(-531.477 -57.39)" fill="#221714"/>
+      <path id="パス_41" data-name="パス 41" d="M647.35,72.082h-2.573l1.173,7.011h2.573Z" transform="translate(-535.448 -57.39)" fill="#221714"/>
+      <path id="パス_42" data-name="パス 42" d="M656.727,72.082h-2.573l1.173,7.011H657.9Z" transform="translate(-539.451 -57.39)" fill="#221714"/>
+      <g id="グループ_555" data-name="グループ 555">
+        <path id="パス_43" data-name="パス 43" d="M456.671,49.857l25.116,6.225V74.322l-25.116,8.27Z" transform="translate(-455.14 -47.902)" fill="#fff"/>
+        <path id="パス_44" data-name="パス 44" d="M494.647,111.333l-34.493-8.55,23.887-7.865,10.606,3.431Z" transform="translate(-456.628 -67.14)" fill="#fff"/>
+        <path id="パス_45" data-name="パス 45" d="M513.011,82.424l-9.843-3.184V61.382l9.843,2.44Z" transform="translate(-474.991 -52.822)" fill="#f2e627"/>
+        <path id="パス_46" data-name="パス 46" d="M501.832,93.514" transform="translate(-474.421 -66.54)" fill="none" stroke="#221714" stroke-miterlimit="10" stroke-width="2.67"/>
+        <path id="パス_47" data-name="パス 47" d="M454,46.445V82.792l39.55,9.8V56.247Zm1.531,1.955,25.116,6.225v18.24l-25.116,8.27ZM492.02,90.639l-34.493-8.55,23.886-7.865,10.606,3.431Zm0-14.592-9.843-3.185V55l9.843,2.44Z" transform="translate(-454 -46.445)" fill="#221714"/>
+      </g>
+    </g>
+  </g>
+</svg>
